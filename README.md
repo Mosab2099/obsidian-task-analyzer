@@ -1,5 +1,5 @@
 # Obsidian Task Analyzer
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/7KZrWQYt3x0?si=uhRh7-CLk1d-rAze
 #### Description:
 A Python script to analyze task completion in an Obsidian vault. The script processes markdown files, identifies completed and incomplete tasks, and generates a summary report.
 
